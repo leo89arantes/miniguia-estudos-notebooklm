@@ -315,8 +315,4 @@ Crie uma folha de revisão rápida contendo apenas os conceitos mais cobrados so
 
 ---
 
-# 6. Conclusão
-
-O NotebookLM mostrou-se uma ferramenta eficiente para consolidar fontes de estudo, produzir resumos, estruturar revisões e gerar simulados. A utilização estratégica da IA permitiu acelerar o processo de aprendizagem e construir um material de apoio personalizado para a preparação da certificação Databricks Data Engineer Associate.
-
 Além da preparação para o exame, o projeto contribuiu para o aprofundamento dos conhecimentos em Engenharia de Dados Moderna, fortalecendo competências técnicas relevantes para atuação profissional na área de dados.
